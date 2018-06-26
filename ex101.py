@@ -9,7 +9,7 @@ I'll do a list:
 \t* Radnip\n\t* Grass
 """
 
-print(tabby_rap)
-print(persian_rap)
-print(backslash_rap)
-print(fat_rap)
+print(tabby_rad)
+print(persian_rad)
+print(backslash_rad)
+print(fat_rad)
